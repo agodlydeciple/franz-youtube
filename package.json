@@ -1,14 +1,14 @@
 {
-    "id": "google-play-music",
-    "name": "Google Play Music",
+    "id": "youtube",
+    "name": "YouTube",
     "version": "1.0.0",
-    "description": "Google Play Music Player",
+    "description": "YouTube Videos",
     "main": "index.js",
     "author": "Don Oerkfitz <don@oerkfitz.com>",
     "license": "MIT",
-    "repository": "https://github.com/agodlydeciple/franz-google-play-music",
+    "repository": "https://github.com/agodlydeciple/franz-youtube",
     "config": {
-        "serviceURL": "https://play.google.com/music/listen?u=0#/home",
+        "serviceURL": "https://youtube.com",
         "hasNotificationSound": false,
         "hasTeamID": false
     }
